@@ -14,14 +14,16 @@ public class DiversasLeituras {
         texto = teclado.nextLine();
         codigo = Integer.parseInt(texto);
 
+        System.out.println("Digite o nome: ");
+        nome = teclado.nextLine();
+
         System.out.println("Digite o preço: ");
         texto = teclado.nextLine();
         preco = Double.parseDouble(texto);
 
-        System.out.println("Digite o nome: ");
-        nome = teclado.nextLine();
-
         System.out.println("Você digitou " + codigo + " - " + nome + " R$ " + preco);
+
+        System.out.printf("Você digitou %d - %s R$ %.2f\n",codigo, nome, preco);
 
         teclado.close();
 
