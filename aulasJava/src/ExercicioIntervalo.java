@@ -9,7 +9,7 @@ public class ExercicioIntervalo {
         double valor;
         valor = scanner.nextDouble();
 
-        if(valor >= 0 && valor <= 25.0){
+        if(valor >= 0.0 && valor <= 25.0){
             System.out.println("Intervalo [0,25]");
         } else if (valor > 25.0 && valor <= 50.0) {
             System.out.println("Intervalo [25,50]");
