@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/aulasJava/aulasJava.iml" filepath="$PROJECT_DIR$/aulasJava/aulasJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introducaoJava/aulaJava.iml" filepath="$PROJECT_DIR$/introducaoJava/aulaJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/gamaAcademy_S2.iml" filepath="$PROJECT_DIR$/gamaAcademy_S2.iml" />
       <module fileurl="file://$PROJECT_DIR$/mentoriaSincronaJava/mentoriaSincronaJava.iml" filepath="$PROJECT_DIR$/mentoriaSincronaJava/mentoriaSincronaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/poo.iml" filepath="$PROJECT_DIR$/poo/poo.iml" />
     </modules>
   </component>
 </project>
