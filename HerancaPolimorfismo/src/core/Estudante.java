@@ -29,7 +29,6 @@ public class Estudante extends Pessoa {
     }
 
 //Sobrescrita = redefinição de método
-    @Override
     public String exibirInfo() {
         return super.exibirInfo() + " / " + this.numeroMatricula + " / " + this.curso;
     }
