@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ExercicioEmpregado/ExercicioEmpregado.iml" filepath="$PROJECT_DIR$/ExercicioEmpregado/ExercicioEmpregado.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExercicioTadTime/ExercicioTadTime.iml" filepath="$PROJECT_DIR$/ExercicioTadTime/ExercicioTadTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerancaPolimorfismo/HerancaPolimorfismo.iml" filepath="$PROJECT_DIR$/HerancaPolimorfismo/HerancaPolimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntroducaoJava/aulaJava.iml" filepath="$PROJECT_DIR$/IntroducaoJava/aulaJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/gamaAcademy_S2.iml" filepath="$PROJECT_DIR$/gamaAcademy_S2.iml" />
       <module fileurl="file://$PROJECT_DIR$/MentoriaJava/mentoriaSincronaJava.iml" filepath="$PROJECT_DIR$/MentoriaJava/mentoriaSincronaJava.iml" />
